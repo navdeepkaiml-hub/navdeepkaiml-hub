@@ -3,7 +3,7 @@ I am Navdeep Kumar, a passionate and detail-oriented Data Analyst and Artificial
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/navdeep-kumar-80656133b) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/navdeep-kumar-80656133b) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:navdeepkaiml@gmail.com) 
 
 # 💻 Tech Stack:
